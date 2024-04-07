@@ -1,16 +1,9 @@
-# github-profile-summary-cards-example
-
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
-
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
-
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# About Me
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=RuiHamada&count_private=true&show_icons=true&show_icons=true&theme=algolia"><br>
+<img width=400 src="https://raw.githubusercontent.com/RuiHamada/RuiHamada/master/profile-summary-card-output/algolia/3-stats.svg"><img width=400 src="https://raw.githubusercontent.com/RuiHamada/RuiHamada/master/profile-summary-card-output/algolia/4-productive-time.svg"><br>
+<img width=400 src="https://raw.githubusercontent.com/RuiHamada/RuiHamada/master/profile-summary-card-output/algolia/1-repos-per-language.svg"><img width=400 src="https://raw.githubusercontent.com/RuiHamada/RuiHamada/master/profile-summary-card-output/algolia/2-most-commit-language.svg"><br>
+<img width=800 src="https://raw.githubusercontent.com/RuiHamada/RuiHamada/master/profile-summary-card-output/algolia/0-profile-details.svg"><br>
+<p align="center">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=RuiHamada&theme=algolia&column=9"><br>
+</p>
+<img width=800 src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,ai,docker,linux,azure,mysql,sqlite,neovim,vim,sublime,vscode">
